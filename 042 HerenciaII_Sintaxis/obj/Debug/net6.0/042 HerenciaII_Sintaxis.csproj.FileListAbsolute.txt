@@ -1,0 +1,14 @@
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\bin\Debug\net6.0\042 HerenciaII_Sintaxis.exe
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\bin\Debug\net6.0\042 HerenciaII_Sintaxis.deps.json
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\bin\Debug\net6.0\042 HerenciaII_Sintaxis.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\bin\Debug\net6.0\042 HerenciaII_Sintaxis.dll
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\bin\Debug\net6.0\042 HerenciaII_Sintaxis.pdb
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\obj\Debug\net6.0\042 HerenciaII_Sintaxis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\obj\Debug\net6.0\042 HerenciaII_Sintaxis.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\obj\Debug\net6.0\042 HerenciaII_Sintaxis.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\obj\Debug\net6.0\042 HerenciaII_Sintaxis.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\obj\Debug\net6.0\042 HerenciaII_Sintaxis.dll
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\obj\Debug\net6.0\refint\042 HerenciaII_Sintaxis.dll
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\obj\Debug\net6.0\042 HerenciaII_Sintaxis.pdb
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\obj\Debug\net6.0\042 HerenciaII_Sintaxis.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\042 HerenciaII_Sintaxis\obj\Debug\net6.0\ref\042 HerenciaII_Sintaxis.dll
