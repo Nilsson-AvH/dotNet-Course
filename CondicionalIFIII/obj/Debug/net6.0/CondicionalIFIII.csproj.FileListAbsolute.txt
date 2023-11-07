@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\bin\Debug\net6.0\CondicionalIFIII.exe
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\bin\Debug\net6.0\CondicionalIFIII.deps.json
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\bin\Debug\net6.0\CondicionalIFIII.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\bin\Debug\net6.0\CondicionalIFIII.dll
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\bin\Debug\net6.0\CondicionalIFIII.pdb
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\obj\Debug\net6.0\CondicionalIFIII.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\obj\Debug\net6.0\CondicionalIFIII.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\obj\Debug\net6.0\CondicionalIFIII.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\obj\Debug\net6.0\CondicionalIFIII.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\obj\Debug\net6.0\CondicionalIFIII.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\obj\Debug\net6.0\CondicionalIFIII.dll
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\obj\Debug\net6.0\refint\CondicionalIFIII.dll
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\obj\Debug\net6.0\CondicionalIFIII.pdb
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\obj\Debug\net6.0\CondicionalIFIII.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIII\obj\Debug\net6.0\ref\CondicionalIFIII.dll

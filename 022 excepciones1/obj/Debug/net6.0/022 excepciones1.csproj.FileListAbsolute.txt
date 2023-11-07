@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\bin\Debug\net6.0\022 excepciones1.exe
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\bin\Debug\net6.0\022 excepciones1.deps.json
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\bin\Debug\net6.0\022 excepciones1.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\bin\Debug\net6.0\022 excepciones1.dll
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\bin\Debug\net6.0\022 excepciones1.pdb
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\obj\Debug\net6.0\022 excepciones1.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\obj\Debug\net6.0\022 excepciones1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\obj\Debug\net6.0\022 excepciones1.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\obj\Debug\net6.0\022 excepciones1.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\obj\Debug\net6.0\022 excepciones1.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\obj\Debug\net6.0\022 excepciones1.dll
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\obj\Debug\net6.0\refint\022 excepciones1.dll
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\obj\Debug\net6.0\022 excepciones1.pdb
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\obj\Debug\net6.0\022 excepciones1.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\022 excepciones1\obj\Debug\net6.0\ref\022 excepciones1.dll

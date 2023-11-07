@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\obj\Debug\net6.0\ej001 invertirDosCifras.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\obj\Debug\net6.0\ej001 invertirDosCifras.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\obj\Debug\net6.0\ej001 invertirDosCifras.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\obj\Debug\net6.0\ej001 invertirDosCifras.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\obj\Debug\net6.0\ej001 invertirDosCifras.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\bin\Debug\net6.0\ej001 invertirDosCifras.exe
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\bin\Debug\net6.0\ej001 invertirDosCifras.deps.json
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\bin\Debug\net6.0\ej001 invertirDosCifras.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\bin\Debug\net6.0\ej001 invertirDosCifras.dll
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\bin\Debug\net6.0\ej001 invertirDosCifras.pdb
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\obj\Debug\net6.0\ej001 invertirDosCifras.dll
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\obj\Debug\net6.0\refint\ej001 invertirDosCifras.dll
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\obj\Debug\net6.0\ej001 invertirDosCifras.pdb
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\obj\Debug\net6.0\ej001 invertirDosCifras.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\ej001 invertirDosCifras\obj\Debug\net6.0\ref\ej001 invertirDosCifras.dll

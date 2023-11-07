@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\bin\Debug\net6.0\bucleWhileI.exe
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\bin\Debug\net6.0\bucleWhileI.deps.json
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\bin\Debug\net6.0\bucleWhileI.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\bin\Debug\net6.0\bucleWhileI.dll
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\bin\Debug\net6.0\bucleWhileI.pdb
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\obj\Debug\net6.0\bucleWhileI.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\obj\Debug\net6.0\bucleWhileI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\obj\Debug\net6.0\bucleWhileI.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\obj\Debug\net6.0\bucleWhileI.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\obj\Debug\net6.0\bucleWhileI.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\obj\Debug\net6.0\bucleWhileI.dll
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\obj\Debug\net6.0\refint\bucleWhileI.dll
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\obj\Debug\net6.0\bucleWhileI.pdb
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\obj\Debug\net6.0\bucleWhileI.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\bucleWhileI\obj\Debug\net6.0\ref\bucleWhileI.dll

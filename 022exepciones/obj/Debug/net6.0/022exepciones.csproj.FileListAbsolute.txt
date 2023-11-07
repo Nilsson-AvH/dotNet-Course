@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\022exepciones\bin\Debug\net6.0\022exepciones.exe
+D:\Users\NIlssonAvH\source\repos\022exepciones\bin\Debug\net6.0\022exepciones.deps.json
+D:\Users\NIlssonAvH\source\repos\022exepciones\bin\Debug\net6.0\022exepciones.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\022exepciones\bin\Debug\net6.0\022exepciones.dll
+D:\Users\NIlssonAvH\source\repos\022exepciones\bin\Debug\net6.0\022exepciones.pdb
+D:\Users\NIlssonAvH\source\repos\022exepciones\obj\Debug\net6.0\022exepciones.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\022exepciones\obj\Debug\net6.0\022exepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\022exepciones\obj\Debug\net6.0\022exepciones.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\022exepciones\obj\Debug\net6.0\022exepciones.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\022exepciones\obj\Debug\net6.0\022exepciones.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\022exepciones\obj\Debug\net6.0\022exepciones.dll
+D:\Users\NIlssonAvH\source\repos\022exepciones\obj\Debug\net6.0\refint\022exepciones.dll
+D:\Users\NIlssonAvH\source\repos\022exepciones\obj\Debug\net6.0\022exepciones.pdb
+D:\Users\NIlssonAvH\source\repos\022exepciones\obj\Debug\net6.0\022exepciones.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\022exepciones\obj\Debug\net6.0\ref\022exepciones.dll

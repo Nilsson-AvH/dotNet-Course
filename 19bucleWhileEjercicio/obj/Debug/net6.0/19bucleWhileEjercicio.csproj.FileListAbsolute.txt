@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\bin\Debug\net6.0\19bucleWhileEjercicio.exe
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\bin\Debug\net6.0\19bucleWhileEjercicio.deps.json
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\bin\Debug\net6.0\19bucleWhileEjercicio.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\bin\Debug\net6.0\19bucleWhileEjercicio.dll
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\bin\Debug\net6.0\19bucleWhileEjercicio.pdb
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\obj\Debug\net6.0\19bucleWhileEjercicio.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\obj\Debug\net6.0\19bucleWhileEjercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\obj\Debug\net6.0\19bucleWhileEjercicio.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\obj\Debug\net6.0\19bucleWhileEjercicio.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\obj\Debug\net6.0\19bucleWhileEjercicio.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\obj\Debug\net6.0\19bucleWhileEjercicio.dll
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\obj\Debug\net6.0\refint\19bucleWhileEjercicio.dll
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\obj\Debug\net6.0\19bucleWhileEjercicio.pdb
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\obj\Debug\net6.0\19bucleWhileEjercicio.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\19bucleWhileEjercicio\obj\Debug\net6.0\ref\19bucleWhileEjercicio.dll

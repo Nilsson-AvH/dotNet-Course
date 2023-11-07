@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\bin\Debug\net6.0\025 lanzamientoExcepciones.exe
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\bin\Debug\net6.0\025 lanzamientoExcepciones.deps.json
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\bin\Debug\net6.0\025 lanzamientoExcepciones.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\bin\Debug\net6.0\025 lanzamientoExcepciones.dll
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\bin\Debug\net6.0\025 lanzamientoExcepciones.pdb
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\obj\Debug\net6.0\025 lanzamientoExcepciones.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\obj\Debug\net6.0\025 lanzamientoExcepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\obj\Debug\net6.0\025 lanzamientoExcepciones.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\obj\Debug\net6.0\025 lanzamientoExcepciones.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\obj\Debug\net6.0\025 lanzamientoExcepciones.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\obj\Debug\net6.0\025 lanzamientoExcepciones.dll
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\obj\Debug\net6.0\refint\025 lanzamientoExcepciones.dll
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\obj\Debug\net6.0\025 lanzamientoExcepciones.pdb
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\obj\Debug\net6.0\025 lanzamientoExcepciones.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\025 lanzamientoExcepciones\obj\Debug\net6.0\ref\025 lanzamientoExcepciones.dll

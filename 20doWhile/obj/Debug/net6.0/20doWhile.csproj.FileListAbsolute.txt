@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\20doWhile\bin\Debug\net6.0\20doWhile.exe
+D:\Users\NIlssonAvH\source\repos\20doWhile\bin\Debug\net6.0\20doWhile.deps.json
+D:\Users\NIlssonAvH\source\repos\20doWhile\bin\Debug\net6.0\20doWhile.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\20doWhile\bin\Debug\net6.0\20doWhile.dll
+D:\Users\NIlssonAvH\source\repos\20doWhile\bin\Debug\net6.0\20doWhile.pdb
+D:\Users\NIlssonAvH\source\repos\20doWhile\obj\Debug\net6.0\20doWhile.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\20doWhile\obj\Debug\net6.0\20doWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\20doWhile\obj\Debug\net6.0\20doWhile.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\20doWhile\obj\Debug\net6.0\20doWhile.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\20doWhile\obj\Debug\net6.0\20doWhile.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\20doWhile\obj\Debug\net6.0\20doWhile.dll
+D:\Users\NIlssonAvH\source\repos\20doWhile\obj\Debug\net6.0\refint\20doWhile.dll
+D:\Users\NIlssonAvH\source\repos\20doWhile\obj\Debug\net6.0\20doWhile.pdb
+D:\Users\NIlssonAvH\source\repos\20doWhile\obj\Debug\net6.0\20doWhile.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\20doWhile\obj\Debug\net6.0\ref\20doWhile.dll

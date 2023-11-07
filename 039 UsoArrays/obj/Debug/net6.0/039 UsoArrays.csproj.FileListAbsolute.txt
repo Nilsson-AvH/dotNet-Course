@@ -1,0 +1,14 @@
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\obj\Debug\net6.0\039 UsoArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\obj\Debug\net6.0\039 UsoArrays.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\obj\Debug\net6.0\039 UsoArrays.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\obj\Debug\net6.0\039 UsoArrays.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\bin\Debug\net6.0\039 UsoArrays.exe
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\bin\Debug\net6.0\039 UsoArrays.deps.json
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\bin\Debug\net6.0\039 UsoArrays.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\bin\Debug\net6.0\039 UsoArrays.dll
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\bin\Debug\net6.0\039 UsoArrays.pdb
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\obj\Debug\net6.0\039 UsoArrays.dll
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\obj\Debug\net6.0\refint\039 UsoArrays.dll
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\obj\Debug\net6.0\039 UsoArrays.pdb
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\obj\Debug\net6.0\039 UsoArrays.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\039 UsoArrays\obj\Debug\net6.0\ref\039 UsoArrays.dll

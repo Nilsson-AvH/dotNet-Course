@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\bin\Debug\net6.0\031 GetterSetter.exe
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\bin\Debug\net6.0\031 GetterSetter.deps.json
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\bin\Debug\net6.0\031 GetterSetter.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\bin\Debug\net6.0\031 GetterSetter.dll
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\bin\Debug\net6.0\031 GetterSetter.pdb
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\obj\Debug\net6.0\031 GetterSetter.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\obj\Debug\net6.0\031 GetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\obj\Debug\net6.0\031 GetterSetter.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\obj\Debug\net6.0\031 GetterSetter.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\obj\Debug\net6.0\031 GetterSetter.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\obj\Debug\net6.0\031 GetterSetter.dll
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\obj\Debug\net6.0\refint\031 GetterSetter.dll
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\obj\Debug\net6.0\031 GetterSetter.pdb
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\obj\Debug\net6.0\031 GetterSetter.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\031 GetterSetter\obj\Debug\net6.0\ref\031 GetterSetter.dll

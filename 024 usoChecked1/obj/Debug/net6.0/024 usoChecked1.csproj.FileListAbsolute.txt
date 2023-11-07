@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\bin\Debug\net6.0\024 usoChecked1.exe
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\bin\Debug\net6.0\024 usoChecked1.deps.json
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\bin\Debug\net6.0\024 usoChecked1.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\bin\Debug\net6.0\024 usoChecked1.dll
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\bin\Debug\net6.0\024 usoChecked1.pdb
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\obj\Debug\net6.0\024 usoChecked1.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\obj\Debug\net6.0\024 usoChecked1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\obj\Debug\net6.0\024 usoChecked1.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\obj\Debug\net6.0\024 usoChecked1.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\obj\Debug\net6.0\024 usoChecked1.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\obj\Debug\net6.0\024 usoChecked1.dll
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\obj\Debug\net6.0\refint\024 usoChecked1.dll
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\obj\Debug\net6.0\024 usoChecked1.pdb
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\obj\Debug\net6.0\024 usoChecked1.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\024 usoChecked1\obj\Debug\net6.0\ref\024 usoChecked1.dll

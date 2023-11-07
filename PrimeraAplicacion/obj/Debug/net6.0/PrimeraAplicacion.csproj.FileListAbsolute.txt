@@ -1,0 +1,15 @@
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.exe
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.deps.json
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.runtimeconfig.json
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.dll
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\bin\Debug\net6.0\PrimeraAplicacion.pdb
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.csproj.AssemblyReference.cache
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.AssemblyInfoInputs.cache
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.AssemblyInfo.cs
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.csproj.CoreCompileInputs.cache
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.dll
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\obj\Debug\net6.0\refint\PrimeraAplicacion.dll
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.pdb
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\obj\Debug\net6.0\PrimeraAplicacion.genruntimeconfig.cache
+D:\Users\NilssonAvH\source\repos\PrimeraAplicacion\obj\Debug\net6.0\ref\PrimeraAplicacion.dll

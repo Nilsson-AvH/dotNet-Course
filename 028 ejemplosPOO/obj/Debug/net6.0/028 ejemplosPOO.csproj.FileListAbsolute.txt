@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\bin\Debug\net6.0\028 ejemplosPOO.exe
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\bin\Debug\net6.0\028 ejemplosPOO.deps.json
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\bin\Debug\net6.0\028 ejemplosPOO.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\bin\Debug\net6.0\028 ejemplosPOO.dll
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\bin\Debug\net6.0\028 ejemplosPOO.pdb
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\obj\Debug\net6.0\028 ejemplosPOO.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\obj\Debug\net6.0\028 ejemplosPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\obj\Debug\net6.0\028 ejemplosPOO.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\obj\Debug\net6.0\028 ejemplosPOO.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\obj\Debug\net6.0\028 ejemplosPOO.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\obj\Debug\net6.0\028 ejemplosPOO.dll
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\obj\Debug\net6.0\refint\028 ejemplosPOO.dll
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\obj\Debug\net6.0\028 ejemplosPOO.pdb
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\obj\Debug\net6.0\028 ejemplosPOO.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\028 ejemplosPOO\obj\Debug\net6.0\ref\028 ejemplosPOO.dll

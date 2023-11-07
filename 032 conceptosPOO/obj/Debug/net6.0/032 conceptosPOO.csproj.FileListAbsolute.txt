@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\obj\Debug\net6.0\032 conceptosPOO.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\obj\Debug\net6.0\032 conceptosPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\obj\Debug\net6.0\032 conceptosPOO.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\obj\Debug\net6.0\032 conceptosPOO.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\obj\Debug\net6.0\032 conceptosPOO.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\bin\Debug\net6.0\032 conceptosPOO.exe
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\bin\Debug\net6.0\032 conceptosPOO.deps.json
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\bin\Debug\net6.0\032 conceptosPOO.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\bin\Debug\net6.0\032 conceptosPOO.dll
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\bin\Debug\net6.0\032 conceptosPOO.pdb
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\obj\Debug\net6.0\032 conceptosPOO.dll
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\obj\Debug\net6.0\refint\032 conceptosPOO.dll
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\obj\Debug\net6.0\032 conceptosPOO.pdb
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\obj\Debug\net6.0\032 conceptosPOO.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\032 conceptosPOO\obj\Debug\net6.0\ref\032 conceptosPOO.dll

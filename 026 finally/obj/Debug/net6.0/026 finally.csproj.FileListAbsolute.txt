@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\026 finally\bin\Debug\net6.0\026 finally.exe
+D:\Users\NIlssonAvH\source\repos\026 finally\bin\Debug\net6.0\026 finally.deps.json
+D:\Users\NIlssonAvH\source\repos\026 finally\bin\Debug\net6.0\026 finally.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\026 finally\bin\Debug\net6.0\026 finally.dll
+D:\Users\NIlssonAvH\source\repos\026 finally\bin\Debug\net6.0\026 finally.pdb
+D:\Users\NIlssonAvH\source\repos\026 finally\obj\Debug\net6.0\026 finally.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\026 finally\obj\Debug\net6.0\026 finally.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\026 finally\obj\Debug\net6.0\026 finally.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\026 finally\obj\Debug\net6.0\026 finally.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\026 finally\obj\Debug\net6.0\026 finally.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\026 finally\obj\Debug\net6.0\026 finally.dll
+D:\Users\NIlssonAvH\source\repos\026 finally\obj\Debug\net6.0\refint\026 finally.dll
+D:\Users\NIlssonAvH\source\repos\026 finally\obj\Debug\net6.0\026 finally.pdb
+D:\Users\NIlssonAvH\source\repos\026 finally\obj\Debug\net6.0\026 finally.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\026 finally\obj\Debug\net6.0\ref\026 finally.dll

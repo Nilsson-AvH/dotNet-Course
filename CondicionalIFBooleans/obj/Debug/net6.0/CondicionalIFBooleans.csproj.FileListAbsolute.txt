@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\bin\Debug\net6.0\CondicionalIFBooleans.exe
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\bin\Debug\net6.0\CondicionalIFBooleans.deps.json
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\bin\Debug\net6.0\CondicionalIFBooleans.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\bin\Debug\net6.0\CondicionalIFBooleans.dll
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\bin\Debug\net6.0\CondicionalIFBooleans.pdb
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\obj\Debug\net6.0\CondicionalIFBooleans.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\obj\Debug\net6.0\CondicionalIFBooleans.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\obj\Debug\net6.0\CondicionalIFBooleans.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\obj\Debug\net6.0\CondicionalIFBooleans.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\obj\Debug\net6.0\CondicionalIFBooleans.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\obj\Debug\net6.0\CondicionalIFBooleans.dll
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\obj\Debug\net6.0\refint\CondicionalIFBooleans.dll
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\obj\Debug\net6.0\CondicionalIFBooleans.pdb
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\obj\Debug\net6.0\CondicionalIFBooleans.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFBooleans\obj\Debug\net6.0\ref\CondicionalIFBooleans.dll

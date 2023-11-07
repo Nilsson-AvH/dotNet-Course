@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\bin\Debug\net6.0\CondicionalIFIVelseif.exe
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\bin\Debug\net6.0\CondicionalIFIVelseif.deps.json
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\bin\Debug\net6.0\CondicionalIFIVelseif.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\bin\Debug\net6.0\CondicionalIFIVelseif.dll
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\bin\Debug\net6.0\CondicionalIFIVelseif.pdb
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\obj\Debug\net6.0\CondicionalIFIVelseif.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\obj\Debug\net6.0\CondicionalIFIVelseif.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\obj\Debug\net6.0\CondicionalIFIVelseif.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\obj\Debug\net6.0\CondicionalIFIVelseif.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\obj\Debug\net6.0\CondicionalIFIVelseif.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\obj\Debug\net6.0\CondicionalIFIVelseif.dll
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\obj\Debug\net6.0\refint\CondicionalIFIVelseif.dll
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\obj\Debug\net6.0\CondicionalIFIVelseif.pdb
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\obj\Debug\net6.0\CondicionalIFIVelseif.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\CondicionalIFIVelseif\obj\Debug\net6.0\ref\CondicionalIFIVelseif.dll

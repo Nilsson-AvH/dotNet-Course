@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\bin\Debug\net6.0\035 ClasesAnonimas.exe
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\bin\Debug\net6.0\035 ClasesAnonimas.deps.json
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\bin\Debug\net6.0\035 ClasesAnonimas.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\bin\Debug\net6.0\035 ClasesAnonimas.dll
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\bin\Debug\net6.0\035 ClasesAnonimas.pdb
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\obj\Debug\net6.0\035 ClasesAnonimas.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\obj\Debug\net6.0\035 ClasesAnonimas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\obj\Debug\net6.0\035 ClasesAnonimas.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\obj\Debug\net6.0\035 ClasesAnonimas.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\obj\Debug\net6.0\035 ClasesAnonimas.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\obj\Debug\net6.0\035 ClasesAnonimas.dll
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\obj\Debug\net6.0\refint\035 ClasesAnonimas.dll
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\obj\Debug\net6.0\035 ClasesAnonimas.pdb
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\obj\Debug\net6.0\035 ClasesAnonimas.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\035 ClasesAnonimas\obj\Debug\net6.0\ref\035 ClasesAnonimas.dll

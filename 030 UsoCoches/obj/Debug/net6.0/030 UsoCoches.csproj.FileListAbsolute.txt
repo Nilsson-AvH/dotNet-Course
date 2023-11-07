@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\bin\Debug\net6.0\030 UsoCoches.exe
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\bin\Debug\net6.0\030 UsoCoches.deps.json
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\bin\Debug\net6.0\030 UsoCoches.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\bin\Debug\net6.0\030 UsoCoches.dll
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\bin\Debug\net6.0\030 UsoCoches.pdb
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\obj\Debug\net6.0\030 UsoCoches.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\obj\Debug\net6.0\030 UsoCoches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\obj\Debug\net6.0\030 UsoCoches.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\obj\Debug\net6.0\030 UsoCoches.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\obj\Debug\net6.0\030 UsoCoches.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\obj\Debug\net6.0\030 UsoCoches.dll
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\obj\Debug\net6.0\refint\030 UsoCoches.dll
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\obj\Debug\net6.0\030 UsoCoches.pdb
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\obj\Debug\net6.0\030 UsoCoches.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\030 UsoCoches\obj\Debug\net6.0\ref\030 UsoCoches.dll

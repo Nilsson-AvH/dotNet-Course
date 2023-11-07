@@ -1,0 +1,14 @@
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\bin\Debug\net6.0\038 ArrayAnd_For.exe
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\bin\Debug\net6.0\038 ArrayAnd_For.deps.json
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\bin\Debug\net6.0\038 ArrayAnd_For.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\bin\Debug\net6.0\038 ArrayAnd_For.dll
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\bin\Debug\net6.0\038 ArrayAnd_For.pdb
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\obj\Debug\net6.0\038 ArrayAnd_For.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\obj\Debug\net6.0\038 ArrayAnd_For.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\obj\Debug\net6.0\038 ArrayAnd_For.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\obj\Debug\net6.0\038 ArrayAnd_For.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\obj\Debug\net6.0\038 ArrayAnd_For.dll
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\obj\Debug\net6.0\refint\038 ArrayAnd_For.dll
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\obj\Debug\net6.0\038 ArrayAnd_For.pdb
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\obj\Debug\net6.0\038 ArrayAnd_For.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\038 ArrayAnd_For\obj\Debug\net6.0\ref\038 ArrayAnd_For.dll

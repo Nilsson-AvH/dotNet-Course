@@ -1,0 +1,14 @@
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\bin\Debug\net6.0\040 ArraysV.exe
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\bin\Debug\net6.0\040 ArraysV.deps.json
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\bin\Debug\net6.0\040 ArraysV.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\bin\Debug\net6.0\040 ArraysV.dll
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\bin\Debug\net6.0\040 ArraysV.pdb
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\obj\Debug\net6.0\040 ArraysV.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\obj\Debug\net6.0\040 ArraysV.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\obj\Debug\net6.0\040 ArraysV.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\obj\Debug\net6.0\040 ArraysV.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\obj\Debug\net6.0\040 ArraysV.dll
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\obj\Debug\net6.0\refint\040 ArraysV.dll
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\obj\Debug\net6.0\040 ArraysV.pdb
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\obj\Debug\net6.0\040 ArraysV.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\040 ArraysV\obj\Debug\net6.0\ref\040 ArraysV.dll

@@ -1,0 +1,14 @@
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\bin\Debug\net6.0\039 Foreach loop.exe
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\bin\Debug\net6.0\039 Foreach loop.deps.json
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\bin\Debug\net6.0\039 Foreach loop.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\bin\Debug\net6.0\039 Foreach loop.dll
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\bin\Debug\net6.0\039 Foreach loop.pdb
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\obj\Debug\net6.0\039 Foreach loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\obj\Debug\net6.0\039 Foreach loop.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\obj\Debug\net6.0\039 Foreach loop.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\obj\Debug\net6.0\039 Foreach loop.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\obj\Debug\net6.0\039 Foreach loop.dll
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\obj\Debug\net6.0\refint\039 Foreach loop.dll
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\obj\Debug\net6.0\039 Foreach loop.pdb
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\obj\Debug\net6.0\039 Foreach loop.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\039 Foreach loop\obj\Debug\net6.0\ref\039 Foreach loop.dll

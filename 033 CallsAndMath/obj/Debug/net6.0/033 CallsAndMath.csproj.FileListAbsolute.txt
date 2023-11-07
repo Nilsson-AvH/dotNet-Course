@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\bin\Debug\net6.0\033 CallsAndMath.exe
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\bin\Debug\net6.0\033 CallsAndMath.deps.json
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\bin\Debug\net6.0\033 CallsAndMath.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\bin\Debug\net6.0\033 CallsAndMath.dll
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\bin\Debug\net6.0\033 CallsAndMath.pdb
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.dll
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\refint\033 CallsAndMath.dll
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.pdb
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\ref\033 CallsAndMath.dll

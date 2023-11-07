@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\bin\Debug\net6.0\PracticaMetodos3.exe
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\bin\Debug\net6.0\PracticaMetodos3.deps.json
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\bin\Debug\net6.0\PracticaMetodos3.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\bin\Debug\net6.0\PracticaMetodos3.dll
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\bin\Debug\net6.0\PracticaMetodos3.pdb
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\obj\Debug\net6.0\PracticaMetodos3.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\obj\Debug\net6.0\PracticaMetodos3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\obj\Debug\net6.0\PracticaMetodos3.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\obj\Debug\net6.0\PracticaMetodos3.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\obj\Debug\net6.0\PracticaMetodos3.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\obj\Debug\net6.0\PracticaMetodos3.dll
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\obj\Debug\net6.0\refint\PracticaMetodos3.dll
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\obj\Debug\net6.0\PracticaMetodos3.pdb
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\obj\Debug\net6.0\PracticaMetodos3.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\PracticaMetodos3\obj\Debug\net6.0\ref\PracticaMetodos3.dll

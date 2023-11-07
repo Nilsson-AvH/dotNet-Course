@@ -1,0 +1,15 @@
+D:\Users\NIlssonAvH\source\repos\036 Arrays\bin\Debug\net6.0\036 Arrays.exe
+D:\Users\NIlssonAvH\source\repos\036 Arrays\bin\Debug\net6.0\036 Arrays.deps.json
+D:\Users\NIlssonAvH\source\repos\036 Arrays\bin\Debug\net6.0\036 Arrays.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\036 Arrays\bin\Debug\net6.0\036 Arrays.dll
+D:\Users\NIlssonAvH\source\repos\036 Arrays\bin\Debug\net6.0\036 Arrays.pdb
+D:\Users\NIlssonAvH\source\repos\036 Arrays\obj\Debug\net6.0\036 Arrays.csproj.AssemblyReference.cache
+D:\Users\NIlssonAvH\source\repos\036 Arrays\obj\Debug\net6.0\036 Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\036 Arrays\obj\Debug\net6.0\036 Arrays.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\036 Arrays\obj\Debug\net6.0\036 Arrays.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\036 Arrays\obj\Debug\net6.0\036 Arrays.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\036 Arrays\obj\Debug\net6.0\036 Arrays.dll
+D:\Users\NIlssonAvH\source\repos\036 Arrays\obj\Debug\net6.0\refint\036 Arrays.dll
+D:\Users\NIlssonAvH\source\repos\036 Arrays\obj\Debug\net6.0\036 Arrays.pdb
+D:\Users\NIlssonAvH\source\repos\036 Arrays\obj\Debug\net6.0\036 Arrays.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\036 Arrays\obj\Debug\net6.0\ref\036 Arrays.dll
