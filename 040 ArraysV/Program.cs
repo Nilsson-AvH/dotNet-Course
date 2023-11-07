@@ -14,9 +14,15 @@ namespace ArraysV
         // Methods
         static void ProcesaDatos(int[] datos)
         {
+            /*
             foreach(int i in datos) 
             { 
                 Console.WriteLine(i);
+            }
+            */
+            for (int i = 0;i < datos.Length; i++) 
+            {
+                datos[i] += 10;
             }
         }
 
@@ -30,6 +36,11 @@ namespace ArraysV
             numeros[3] = 3;
 
             ProcesaDatos(numeros);
+
+            foreach (int i in numeros) 
+            { 
+                Console.WriteLine(i);
+            }
 
         }
     }
