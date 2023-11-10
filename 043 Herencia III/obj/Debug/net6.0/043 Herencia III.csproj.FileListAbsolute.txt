@@ -1,0 +1,14 @@
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\bin\Debug\net6.0\043 Herencia III.exe
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\bin\Debug\net6.0\043 Herencia III.deps.json
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\bin\Debug\net6.0\043 Herencia III.runtimeconfig.json
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\bin\Debug\net6.0\043 Herencia III.dll
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\bin\Debug\net6.0\043 Herencia III.pdb
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\obj\Debug\net6.0\043 Herencia III.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\obj\Debug\net6.0\043 Herencia III.AssemblyInfoInputs.cache
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\obj\Debug\net6.0\043 Herencia III.AssemblyInfo.cs
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\obj\Debug\net6.0\043 Herencia III.csproj.CoreCompileInputs.cache
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\obj\Debug\net6.0\043 Herencia III.dll
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\obj\Debug\net6.0\refint\043 Herencia III.dll
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\obj\Debug\net6.0\043 Herencia III.pdb
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\obj\Debug\net6.0\043 Herencia III.genruntimeconfig.cache
+D:\Users\NIlssonAvH\source\repos\043 Herencia III\obj\Debug\net6.0\ref\043 Herencia III.dll

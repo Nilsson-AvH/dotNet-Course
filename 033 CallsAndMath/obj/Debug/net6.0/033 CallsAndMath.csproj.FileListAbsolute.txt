@@ -1,4 +1,3 @@
-D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.csproj.AssemblyReference.cache
 D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.GeneratedMSBuildEditorConfig.editorconfig
 D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.AssemblyInfoInputs.cache
 D:\Users\NIlssonAvH\source\repos\033 CallsAndMath\obj\Debug\net6.0\033 CallsAndMath.AssemblyInfo.cs
